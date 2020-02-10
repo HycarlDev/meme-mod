@@ -113,7 +113,7 @@ npm install
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-[![Usage WILL BE ADDED SOON!][product-usage]](https://example.com)
+[![Usage WILL BE ADDED SOON!][product-usage](https://example.com)
 
 _For more examples, please refer to the [Documentation, WILL BE ADDED SOON!](https://example.com)_
 
@@ -149,11 +149,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@_haikalazmi](https://twitter.com/_haikalazmi)
+My Name - [Haikal Azmi](https://github.com/HycarlDev)
 
 Email - [hycarl.me.study@gmail.com](https://www.gmail.com)
 
-Project Link: [MEME-MOD](https://github.com/HycarlDev/meme-mod)
+Project Link - [MEME-MOD](https://github.com/HycarlDev/meme-mod)
 
 
 
