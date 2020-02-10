@@ -113,16 +113,16 @@ npm install
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+[![Usage WILL BE ADDED SOON!][product-usage]](https://example.com)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation, WILL BE ADDED SOON!](https://example.com)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/HycarlDev/meme-mod/issues) for a list of proposed features (and known issues).
 
 
 
@@ -132,9 +132,9 @@ See the [open issues](https://github.com/github_username/repo/issues) for a list
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature/NewMEMEMODFeature`)
+3. Commit your Changes (`git commit -m 'Add some NewMEMEMODFeature'`)
+4. Push to the Branch (`git push origin feature/NewMEMEMODFeature`)
 5. Open a Pull Request
 
 
@@ -149,18 +149,18 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@_haikalazmi](https://twitter.com/_haikalazmi)
 
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
+Email - [hycarl.me.study@gmail.com](https://www.gmail.com)
+
+Project Link: [MEME-MOD](https://github.com/HycarlDev/meme-mod)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+## WILL BE ADDED SOON!
 
 
 
