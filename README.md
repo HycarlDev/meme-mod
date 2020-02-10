@@ -112,8 +112,7 @@ npm install
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-[![Usage WILL BE ADDED SOON!][product-usage](https://example.com)
+## USAGE WILL BE ADDED SOON!
 
 _For more examples, please refer to the [Documentation, WILL BE ADDED SOON!](https://example.com)_
 
