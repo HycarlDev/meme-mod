@@ -41,16 +41,14 @@ Upgraded project of 9gag, but not 9gag, just better, I think.
   <h3 align="center"> MEME MOD </h3>
 
   <p align="center">
-    Upgraded project of 9gag, but not 9gag, just better, I think.
-    Upload memes that you think are funny, and get ratings from other memers.
-    Be the funniest, or be the noobest.
+    Upgraded project of 9gag, but not 9gag, just better, I think. <br>
+    Upload memes that you think are funny, and get ratings from other memers. <br>
+    Be the funniest, or be the noobest. <br>
     Oh, you can even explore 9gag for memes and upload it here to get ratings from others!
     <br />
-    <a href="https://github.com/HycarlDev/meme-mod"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/HycarlDev/meme-mod"><strong> Explore the project »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/HycarlDev/meme-mod">View Demo</a>
-    ·
     <a href="https://github.com/HycarlDev/meme-mod/issues">Report Bug</a>
     ·
     <a href="https://github.com/HycarlDev/meme-mod/issues">Request Feature</a>
